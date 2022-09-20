@@ -1,6 +1,4 @@
 pipeline {
-
-pipeline {
     agent {
         label {
             label 'built-in'
@@ -17,4 +15,4 @@ pipeline {
             }
         }
     }
-}
+
